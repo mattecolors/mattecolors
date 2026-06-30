@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Matthew+Gervescu...;Roblox+%26+Web+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+%F0%9F%91%8B;I%27m+Matthew+Gervescu;Roblox+%26+Web+Developer;Nice+to+meet+you!&font=Fira+Code&center=true&vCenter=true&width=700&size=24">
   </a>
 </h1>
 
 <p align="center">
-  High school developer building <b>games and tools that scale</b> — across Roblox, the web, and civic tech.
+  High school developer building <b>games and tools that scale</b>, across Roblox, the web, and civic tech.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <p align="center">
   🎮 Roblox developer (<a href="https://www.roblox.com/users/565338066/profile">mattecolors</a> / zump4) with 800M+ visits shipped
   <br><br>
-  🌐 Full-stack web dev — Next.js, TypeScript, PostgreSQL
+  🌐 Full-stack web dev: Next.js, TypeScript, PostgreSQL
   <br><br>
   🏫 Ballantyne Ridge HS · NCSSM Online · dual-enrolled at CPCC
   <br><br>
@@ -34,13 +34,13 @@
 
 ## 🚀 About Me
 
-I'm Matthew Gervescu — a developer at Ballantyne Ridge HS and NCSSM Online, dual-enrolled at CPCC. I work across Roblox, the web, and civic tech, and the common thread behind everything I build is turning ideas into polished experiences that actually reach people.
+I'm Matthew Gervescu, a developer at Ballantyne Ridge HS and NCSSM Online, dual-enrolled at CPCC. I work across Roblox, the web, and civic tech, and the common thread behind everything I build is turning ideas into polished experiences that actually reach people.
 
 On Roblox, my games have passed **800M+ lifetime visits** and **~15K peak concurrent users** as mattecolors (zump4 on-platform), with over **$1M in lifetime revenue**. I've led teams of up to 30 developers, shipped atmospheric builds and large-scale systems, and built a portfolio at [zump.ju.mp](https://zump.ju.mp).
 
-On the web, I founded [DevFolio](https://devfolio.lol) — a portfolio platform for Roblox developers with live stats, verified contributions, and Roblox OAuth. I also co-built [Provide](https://provide-nc.org), a food-access map for the Congressional App Challenge (NC-12), alongside Alan Cai and Sohum Vajaria.
+On the web, I founded [DevFolio](https://devfolio.lol), a portfolio platform for Roblox developers with live stats, verified contributions, and Roblox OAuth. I also co-built [Provide](https://provide-nc.org), a food-access map for the Congressional App Challenge (NC-12), alongside Alan Cai and Sohum Vajaria.
 
-Outside of code: 3rd degree black belt in taekwondo, coaching younger students, and Eagle Scout track in Scouting as Senior Patrol Leader. Open to freelance and project work — thanks for stopping by!
+Outside of code: 3rd degree black belt in taekwondo, coaching younger students, and Eagle Scout track in Scouting as Senior Patrol Leader. Open to freelance and project work. Thanks for stopping by!
 
 ---
 
@@ -117,38 +117,38 @@ Outside of code: 3rd degree black belt in taekwondo, coaching younger students, 
 
 ## 🧩 Featured Projects
 
-### 🎮 Roblox Development — mattecolors
-*2020 – Present*
+### 🎮 Roblox Development | mattecolors
+*2020 - Present*
 
 Building and operating Roblox experiences with 800M+ lifetime visits, ~15K peak CCU, and $1M+ in lifetime revenue. Atmospheric builds, immersive environments, and large-scale systems across Neighbors, Can't Let Her In, CSCD, and more.
 
 🔗 Portfolio: [zump.ju.mp](https://zump.ju.mp) · [Roblox Profile](https://www.roblox.com/users/565338066/profile)
 
-### 📁 DevFolio — Portfolio Platform for Roblox Developers
-*Founder & Developer · 2025 – Present*
+### 📁 DevFolio | Portfolio Platform for Roblox Developers
+*Founder & Developer · 2025 - Present*
 
 A live portfolio platform for Roblox developers. Shareable profile pages, real-time game stats from the Roblox API, verified contributions, and Claude-powered contribution checks. Built with Next.js, TypeScript, Roblox OAuth, and PostgreSQL.
 
 🔗 Website: [devfolio.lol](https://devfolio.lol) · [GitHub](https://github.com/mattecolors/devfolio)
 
-### 🗺️ Provide — Food Access Map
-*Lead Developer · Congressional App Challenge, NC-12 · 2024 – 2025*
+### 🗺️ Provide | Food Access Map
+*Lead Developer · Congressional App Challenge, NC-12 · 2024 - 2025*
 
-NC food-access map built with Alan Cai (NCSSM '27) and Sohum Vajaria (NCSSM '28). 1,800+ verified food access locations across North Carolina — SNAP retailers, food pantries, free meal sites, and WIC clinics. Leaflet, GA4, dark mode, and accessibility tooling.
+NC food-access map built with Alan Cai (NCSSM '27) and Sohum Vajaria (NCSSM '28). 1,800+ verified food access locations across North Carolina: SNAP retailers, food pantries, free meal sites, and WIC clinics. Leaflet, GA4, dark mode, and accessibility tooling.
 
 🔗 Website: [provide-nc.org](https://provide-nc.org)
 
-### 📦 Luau Toolchain — Open Source
-*Maintainer · 2025 – Present*
+### 📦 Luau Toolchain | Open Source
+*Maintainer · 2025 - Present*
 
 Zero-dependency Luau infrastructure for Roblox: **Signal** (typed event connections), **Promise** (Promise/A+ with cancellation), and **Net** (schema-validated remotes). MIT licensed, installable via Wally.
 
 🔗 GitHub: [luau-toolchain](https://github.com/mattecolors/luau-toolchain)
 
 ### 🌐 Portfolio Site
-*2025 – Present*
+*2025 - Present*
 
-Personal website housing projects, stats, toolkit, and contact — built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+Personal website housing projects, stats, toolkit, and contact. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
 🔗 Website: [mattecolors.github.io/portfolio-site](https://mattecolors.github.io/portfolio-site) · [GitHub](https://github.com/mattecolors/portfolio-site)
 
@@ -156,24 +156,24 @@ Personal website housing projects, stats, toolkit, and contact — built with Ne
 
 ## 💼 Experience
 
-- 🎮 **Roblox Developer** — *mattecolors* (2020 – Present) · 800M+ lifetime visits, ~15K peak CCU, $1M+ lifetime revenue. Portfolio at zump.ju.mp.
-- 🚀 **Founder & Developer** — *[DevFolio](https://devfolio.lol)* (2025 – Present) · Roblox OAuth, real-time stats via the Roblox API, Claude-powered contribution verification.
-- 📦 **Open Source Maintainer** — *[Luau Toolchain](https://github.com/mattecolors/luau-toolchain)* (2025 – Present) · Signal, Promise, and Net — production Luau packages published via Wally.
-- 🗺️ **Lead Developer** — *[Provide](https://provide-nc.org)* (2024 – 2025) · Congressional App Challenge entry for NC-12 with Alan Cai and Sohum Vajaria.
-- 🥋 **Instructor & Competitor** — *Taekwondo* (2018 – Present) · 3rd degree black belt coaching younger students.
-- 🏕️ **Senior Patrol Leader** — *Scouting, Eagle Scout track* (2019 – Present) · Leading troop operations and coordinating service projects.
+- 🎮 **Roblox Developer** - *mattecolors* (2020 - Present) · 800M+ lifetime visits, ~15K peak CCU, $1M+ lifetime revenue. Portfolio at zump.ju.mp.
+- 🚀 **Founder & Developer** - *[DevFolio](https://devfolio.lol)* (2025 - Present) · Roblox OAuth, real-time stats via the Roblox API, Claude-powered contribution verification.
+- 📦 **Open Source Maintainer** - *[Luau Toolchain](https://github.com/mattecolors/luau-toolchain)* (2025 - Present) · Signal, Promise, and Net, production Luau packages published via Wally.
+- 🗺️ **Lead Developer** - *[Provide](https://provide-nc.org)* (2024 - 2025) · Congressional App Challenge entry for NC-12 with Alan Cai and Sohum Vajaria.
+- 🥋 **Instructor & Competitor** - *Taekwondo* (2018 - Present) · 3rd degree black belt coaching younger students.
+- 🏕️ **Senior Patrol Leader** - *Scouting, Eagle Scout track* (2019 - Present) · Leading troop operations and coordinating service projects.
 
 ---
 
 ## ⚡ Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattecolors&theme=react-dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=mattecolors&theme=react&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattecolors&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattecolors&layout=compact&theme=react&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mattecolors&show_icons=true&theme=react&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattecolors&layout=compact&theme=react&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -189,4 +189,4 @@ Personal website housing projects, stats, toolkit, and contact — built with Ne
   <a href="https://mattecolors.github.io/portfolio-site/"><img src="https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<p align="center"><i>Want to build something? I'm always down to chat — Discord: <b>zump4</b></i></p>
+<p align="center"><i>Want to build something? I'm always down to chat. Discord: <b>zump4</b></i></p>
